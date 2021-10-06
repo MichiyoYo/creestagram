@@ -1,10 +1,12 @@
-# Learn Redux
+<img src="https://i.imgur.com/RG5wz28.png" alt="a screenshot of the app">
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+# Overview
+
+Simple React app that uses Redux to manage the state.
 
 ## Running
 
-First `npm install` to grab all the necessary dependencies. 
+First `npm install` to grab all the necessary dependencies.
 
 Then run `npm start` and open <localhost:7770> in your browser.
 
