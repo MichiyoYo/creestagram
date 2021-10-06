@@ -1,8 +1,5 @@
-<img src="https://i.imgur.com/RG5wz28.png" alt="a screenshot of the app">
-<a href="https://www.loom.com/share/75b5f0a532fb492daa6004293c5df8dd">
-    <p>Creestagram - Watch Video</p>
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/75b5f0a532fb492daa6004293c5df8dd-with-play.gif">
-  </a>
+<iframe width="640" height="360" src="https://www.loom.com/embed/75b5f0a532fb492daa6004293c5df8dd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 # Overview
 
 Simple React app that uses Redux to manage the state.
