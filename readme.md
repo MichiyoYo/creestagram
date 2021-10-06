@@ -1,5 +1,8 @@
 <img src="https://i.imgur.com/RG5wz28.png" alt="a screenshot of the app">
-
+<a href="https://www.loom.com/share/75b5f0a532fb492daa6004293c5df8dd">
+    <p>Creestagram - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/75b5f0a532fb492daa6004293c5df8dd-with-play.gif">
+  </a>
 # Overview
 
 Simple React app that uses Redux to manage the state.
